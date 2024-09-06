@@ -121,7 +121,7 @@
           full_name: userName.value,
           address: address.value,
         },
-        emailRedirectTo: 'http://localhost:3000',
+        emailRedirectTo: 'https://shopiverse-kk-kuo.netlify.app/',
       },
     });
 
