@@ -118,6 +118,7 @@
               >
             </li>
           </ul>
+          <ThemeToggle class="ml-4" />
         </div>
       </div>
     </nav>
